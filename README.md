@@ -27,6 +27,9 @@
 ## Hospitalization
 ![Hospitalization](index_hosp.png)
 
+## Postitive tests %
+![Positive tests percentage](index_positive.png)
+
 ## Data sources
 - [https://github.com/mpiktas/covid19lt](https://github.com/mpiktas/covid19lt)
 
