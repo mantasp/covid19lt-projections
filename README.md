@@ -48,6 +48,9 @@
 ## Lithuania case growth by test positive percentage by district
 ![Case growth vs positive test percentage](index_growth.png)
 
+## Vaccination progress in Lithuania
+![Vaccination progress in Lithuania](index_vax_progress.png)
+
 ## Positive test percentage map
 [postive_pct_animation](postive_pct_animation)
 
