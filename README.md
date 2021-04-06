@@ -51,6 +51,12 @@
 ## Vaccination progress in Lithuania
 ![Vaccination progress in Lithuania](index_vax_progress.png)
 
+## New cases stacked by age
+![New cases stacked by age](index_cases_stacked.png)
+
+## New deaths stacked by age
+![New deaths stacked by age](index_deaths_stacked.png)
+
 ## Positive test percentage map
 [postive_pct_animation](postive_pct_animation)
 
