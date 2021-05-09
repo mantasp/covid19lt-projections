@@ -27,6 +27,9 @@
 ## Hospitalization
 ![Hospitalization](index_hosp.png)
 
+## Hospitalization by region
+![Hospitalization by region](index_hosp_by_region.png)
+
 ## Postitive tests %
 ![Positive tests percentage](index_positive.png)
 
