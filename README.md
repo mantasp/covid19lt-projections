@@ -60,6 +60,9 @@
 ## New deaths stacked by age
 ![New deaths stacked by age](index_deaths_stacked.png)
 
+## Vaccination progress / week
+[vax progress per week](vax_progress_per_week.png)
+
 ## Positive test percentage map
 [postive_pct_animation](postive_pct_animation)
 
