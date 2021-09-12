@@ -63,7 +63,13 @@
 ## Vaccination progress / week
 [vax progress per week](vax_progress_per_week.png)
 
-## Positive test percentage map
+## Death case age group distribution (last 14d)
+[death case distribution](index_deaths14d.png)
+
+## Sickness rate vs probable immunity levels
+[sickness rate vs probable immunity](index_immunity_vs_sickness.png)
+
+## Positive test percentage map (outdated)
 [postive_pct_animation](postive_pct_animation)
 
 ## Data sources
