@@ -69,6 +69,9 @@
 ## Sickness rate vs probable immunity levels
 [sickness rate vs probable immunity](index_immunity_vs_sickness.png)
 
+## Pandemics in 2021 vs 2020
+[pandemics in 2021 vs 2020](index_2021over2020.png)
+
 ## Positive test percentage map (outdated)
 [postive_pct_animation](postive_pct_animation)
 
