@@ -61,16 +61,16 @@
 ![New deaths stacked by age](index_deaths_stacked.png)
 
 ## Vaccination progress / week
-[vax progress per week](vax_progress_per_week.png)
+![vax progress per week](vax_progress_per_week.png)
 
 ## Death case age group distribution (last 14d)
-[death case distribution](index_deaths14d.png)
+![death case distribution](index_deaths14d.png)
 
 ## Sickness rate vs probable immunity levels
-[sickness rate vs probable immunity](index_immunity_vs_sickness.png)
+![sickness rate vs probable immunity](index_immunity_vs_sickness.png)
 
 ## Pandemics in 2021 vs 2020
-[pandemics in 2021 vs 2020](index_2021over2020.png)
+![pandemics in 2021 vs 2020](index_2021over2020.png)
 
 ## Positive test percentage map (outdated)
 [postive_pct_animation](postive_pct_animation)
