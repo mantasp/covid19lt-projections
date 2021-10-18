@@ -69,6 +69,9 @@
 ## Sickness rate vs probable immunity levels
 ![sickness rate vs probable immunity](index_immunity_vs_sickness.png)
 
+## Sickness rate by vaccination status
+![index_sickness_vax](index_sickness_vax.png)
+
 ## Pandemics in 2021 vs 2020
 ![pandemics in 2021 vs 2020](index_2021over2020.png)
 
